@@ -1,1 +1,3 @@
 file1: Hello Quang.
+Today I try to push the code change into Github
+This is fun :D hehe
